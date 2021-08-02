@@ -2,3 +2,4 @@ App-ListCentosReleases-*
 .build
 *~
 nytprof*
+.DS_Store
