@@ -1,6 +1,10 @@
 package App::ListCentosReleases;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;
